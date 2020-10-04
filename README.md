@@ -1,4 +1,4 @@
-# udemy2
+# moneymanagerapp
 
 A new Flutter project.
 
